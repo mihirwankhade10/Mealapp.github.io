@@ -20,7 +20,7 @@ It is a simple Meals recipe application using NodeJS and recipe API. where a use
 
 [homepage](https://user-images.githubusercontent.com/87888969/230884577-f6991dc7-fb55-4704-9bd3-650ec86023d7.png)
 
-![favsection](https://user-images.githubusercontent.com/87888969/230884636-374843cf-e407-43a8-8ffa-6381755829c5.png)
+[favsection](https://user-images.githubusercontent.com/87888969/230884636-374843cf-e407-43a8-8ffa-6381755829c5.png)
 
 ## My process
 
